@@ -69,6 +69,7 @@ replay_pid*
 id_rsa
 id_ed25519
 !infra/.env.example
+CLAUDE.md
 
 # Configurações locais de editores e IDEs
 .idea/
